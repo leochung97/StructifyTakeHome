@@ -1,11 +1,5 @@
 # Structify Take-Home Assignment
 
-## Table of Contents
-
-- [Summary](#Summary)
-- [Usage](#Usage)
-- [Time Complexity](#Time_Complexity)
-
 ## Summary
 
 Using Python3, I have created an algorithm that will count the number of intersecting chords in a circle.
